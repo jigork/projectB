@@ -1,4 +1,5 @@
 fonction (setup)
 stat if var declared
-
+then allocate var
+to adrress;
 // this code needs to move forward, target date 1 month
