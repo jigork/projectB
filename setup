@@ -1,6 +1,7 @@
+var truc
 fonction (setup)
-stat if var declared
-then allocate var
+stat if truc declared
+then allocate truc
 to adrress;
 
 // this code needs to move forward, target date 1 month
