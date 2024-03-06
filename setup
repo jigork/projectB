@@ -1,6 +1,7 @@
 var truc
 fonction (setup)
 stat if truc declared
+This and that
 then allocate truc
 to adrress;
 
