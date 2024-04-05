@@ -3,6 +3,8 @@ fonction (setup)
 stat if truc declared
 This and that
 then allocate truc
+
+setup messageid
 to adrress;
 
 // this code needs to move forward, target date 1 month
