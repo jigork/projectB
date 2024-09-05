@@ -3,7 +3,7 @@ fonction (setup)
 stat if truc declared
 This and that
 then allocate truc
-
+onlyowner (dodis)
 setup messageid
 to adrress;
 
